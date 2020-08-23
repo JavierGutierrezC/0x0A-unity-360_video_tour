@@ -60,7 +60,10 @@ Create a build of the tour in a ```Builds``` directory and name it based on your
     * [Target Device]
         * [Associated Build Files]
 
+## Credits: ##
+
+Audio: [“Tech Live”](https://incompetech.filmmusic.io/song/4463-tech-live/) by Kevin MacLeod
+
 ## Author
 
 Javier Gutierrez  | [https://github.com/JavierGutierrezC](https://github.com/JavierGutierrezC)
-
